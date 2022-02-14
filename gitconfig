@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yoann.touffet@gmail.com
+	name = yoann touffet
